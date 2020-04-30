@@ -12,6 +12,7 @@
 ```
 <p align="center">
 <img width="780px" height="450px" src="https://obcdn.oss-cn-shenzhen.aliyuncs.com/static/web_ctgdatabase.png"/>
+    https://obcdn.oss-cn-shenzhen.aliyuncs.com/static/web_ctgdatabase.png
 </p>
     
 ### 功能说明
