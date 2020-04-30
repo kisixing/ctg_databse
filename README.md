@@ -11,7 +11,7 @@
 账号/密码：admin admin
 ```
 <p align="center">
-<img width="780px" height="450px" src="./web_ctgdatabase.png"/>
+<img width="780px" height="450px" src="https://obcdn.oss-cn-shenzhen.aliyuncs.com/static/web_ctgdatabase.png"/>
 </p>
     
 ### 功能说明
@@ -24,11 +24,11 @@
 
 ### 根据档案号获取CTG数据
 <p align="center">
-<img width="780px" height="450px" src="./interface1.png"/>
+<img width="780px" height="450px" src="https://obcdn.oss-cn-shenzhen.aliyuncs.com/static/interface1.png"/>
 </p>
 ### 分页获取档案列表（包含用户信息）
 <p align="center">
-<img width="780px" height="450px" src="./interface2.png"/>
+<img width="780px" height="450px" src="https://obcdn.oss-cn-shenzhen.aliyuncs.com/static/interface2.png"/>
 </p>
 > 根据条件查询总条数
 > 分页查询记录 （详见接口风格）
