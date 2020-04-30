@@ -13,6 +13,7 @@
 <p align="center">
 <img width="780px" height="450px" src="https://obcdn.oss-cn-shenzhen.aliyuncs.com/static/web_ctgdatabase.png" />
 </p>
+![](https://obcdn.oss-cn-shenzhen.aliyuncs.com/static/web_ctgdatabase.png)
     
 ### 功能说明
 >档案查询、CTG曲线查看、经典分析评分、数据标记等功能
