@@ -13,7 +13,6 @@
 <p align="center">
 <img width="780px" height="450px" src="https://obcdn.oss-cn-shenzhen.aliyuncs.com/static/web_ctgdatabase.png" />
 </p>
-![](https://obcdn.oss-cn-shenzhen.aliyuncs.com/static/web_ctgdatabase.png)
     
 ### 功能说明
 >档案查询、CTG曲线查看、经典分析评分、数据标记等功能
@@ -32,7 +31,10 @@
 <img width="780px" height="450px" src="https://obcdn.oss-cn-shenzhen.aliyuncs.com/static/interface2.png" />
 </p>
 > 根据条件查询总条数
-> 分页查询记录 （详见接口风格）
+> 分页查询记录 
+
+    详见文档末yapi接口文档
+    yapi账号/密码 doctor@qq.com  lian-med 
 ### 接口授权
 >认证
 
@@ -99,4 +101,4 @@
 ### 链接
 1.[CTG-cqmu](http://cqmu.lian-med.com/ctg)<br />
 2.[CTG其他数据库](http://transfer.lian-med.com/lm)<br />
-3.[YAPI接口文档](http://yapi.lian-med.com/)<br />
+3.[YAPI接口文档](http://yapi.lian-med.com:8080/project/40/interface/api)<br />
