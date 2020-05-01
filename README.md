@@ -8,7 +8,7 @@
 
 ```bash
 地址： http://cqmu.lian-med.com/ctg/  
-账号/密码：admin admin
+账号/密码：联系我们
 ```
 <p align="center">
 <img width="780px" height="450px" src="https://obcdn.oss-cn-shenzhen.aliyuncs.com/static/web_ctgdatabase.png" />
@@ -35,7 +35,7 @@
 > 分页查询记录 
 
     详见文档末yapi接口文档
-    yapi账号/密码 doctor@qq.com  lian-med 
+    yapi账号/密码 联系我们
 ### 接口授权
 >认证
 
